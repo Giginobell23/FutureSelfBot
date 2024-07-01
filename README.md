@@ -22,7 +22,7 @@ FutureSelfBot is a Telegram bot that allows users to schedule emails to be sent 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/FutureSelfBot.git
+    git clone https://github.com/GiovanniDiFiore12/FutureSelfBot.git
     cd FutureSelfBot
     ```
 
